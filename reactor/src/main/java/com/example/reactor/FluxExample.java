@@ -10,6 +10,13 @@ public class FluxExample {
 
     static void main() {
 //        basic();
+        fromStream();
+        generate();
+        create();
+        map();
+        flatMap();
+        range();
+        fluxAndMono();
     }
 
     static void basic() {
